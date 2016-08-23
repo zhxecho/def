@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 aaaaa
 bbbbb
 ccccc
+ddddd
+fgfgfg
+eeeeee
+wwwwww
+wwwwww
+wwwwww
